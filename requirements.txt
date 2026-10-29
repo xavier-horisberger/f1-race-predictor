@@ -1,0 +1,10 @@
+# No fixed versions in the initial skeleton; lock after verifying environments.
+numpy
+pandas
+matplotlib
+scikit-learn
+fastf1
+jupyterlab
+ipykernel
+pytest
+requests
